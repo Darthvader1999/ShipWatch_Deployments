@@ -1,0 +1,84 @@
+11-03-2024 16:51:51	This log contains information about the import schema operation into project 'SQLServer' on computer 'MUMWKS018' by user 'omkarmhapralkar'.
+11-03-2024 16:51:51	Import of database schema has started.
+11-03-2024 16:52:00	Gathering database credentials
+11-03-2024 16:52:00	Gathering database options
+11-03-2024 16:52:00	Gathering generic database scoped configuration option
+11-03-2024 16:52:00	Gathering users
+11-03-2024 16:52:02	Gathering roles
+11-03-2024 16:52:02	Gathering application roles
+11-03-2024 16:52:02	Gathering role memberships
+11-03-2024 16:52:02	Gathering filegroups
+11-03-2024 16:52:02	Gathering full-text catalogs
+11-03-2024 16:52:02	Gathering assemblies
+11-03-2024 16:52:02	Gathering certificates
+11-03-2024 16:52:02	Gathering asymmetric keys
+11-03-2024 16:52:02	Gathering symmetric keys
+11-03-2024 16:52:02	Gathering encrypted symmetric keys
+11-03-2024 16:52:02	Gathering schemas
+11-03-2024 16:52:03	Gathering XML schema collections
+11-03-2024 16:52:03	Gathering user-defined data types
+11-03-2024 16:52:03	Gathering user-defined types
+11-03-2024 16:52:03	Gathering table types
+11-03-2024 16:52:04	Gathering unique keys for table types
+11-03-2024 16:52:04	Gathering primary keys for table types
+11-03-2024 16:52:04	Gathering indexes for table types
+11-03-2024 16:52:04	Gathering check constraints for table types
+11-03-2024 16:52:04	Gathering default constraints for table types
+11-03-2024 16:52:05	Gathering partition functions
+11-03-2024 16:52:05	Gathering partition schemes
+11-03-2024 16:52:05	Gathering functions
+11-03-2024 16:52:06	Gathering encrypted functions
+11-03-2024 16:52:06	Gathering aggregates
+11-03-2024 16:52:06	Gathering procedures
+11-03-2024 16:52:08	Gathering encrypted procedures
+11-03-2024 16:52:09	Gathering tables
+11-03-2024 16:52:09	Gathering primary keys
+11-03-2024 16:52:10	Gathering unique constraints
+11-03-2024 16:52:10	Gathering foreign keys
+11-03-2024 16:52:10	Gathering default constraints
+11-03-2024 16:52:10	Gathering check constraints
+11-03-2024 16:52:10	Gathering views
+11-03-2024 16:52:10	Gathering encrypted views
+11-03-2024 16:52:10	Gathering indexes
+11-03-2024 16:52:10	Gathering statistics
+11-03-2024 16:52:10	Gathering full-text index stoplists
+11-03-2024 16:52:10	Gathering search property lists
+11-03-2024 16:52:10	Gathering search properties
+11-03-2024 16:52:10	Gathering full-text indexes
+11-03-2024 16:52:10	Gathering column store indexes
+11-03-2024 16:52:10	Gathering spatial indexes
+11-03-2024 16:52:10	Gathering XML indexes
+11-03-2024 16:52:10	Gathering Selective XML indexes
+11-03-2024 16:52:10	Gathering encrypted triggers
+11-03-2024 16:52:10	Gathering triggers
+11-03-2024 16:52:10	Gathering encrypted and clr ddl triggers
+11-03-2024 16:52:10	Gathering ddl triggers
+11-03-2024 16:52:10	Creating edge constraints
+11-03-2024 16:52:10	Gathering synonyms
+11-03-2024 16:52:10	Gathering defaults
+11-03-2024 16:52:10	Gathering data constraint uddt bindings
+11-03-2024 16:52:10	Gathering rules
+11-03-2024 16:52:10	Gathering data constraint uddt bindings
+11-03-2024 16:52:10	Gathering message types
+11-03-2024 16:52:10	Gathering queues
+11-03-2024 16:52:10	Gathering contracts
+11-03-2024 16:52:10	Gathering services
+11-03-2024 16:52:10	Gathering event notifications
+11-03-2024 16:52:10	Gathering remote service bindings
+11-03-2024 16:52:10	Gathering broker priorities
+11-03-2024 16:52:10	Gathering signatures
+11-03-2024 16:52:10	Gathering compression options
+11-03-2024 16:52:10	Gathering sequence types
+11-03-2024 16:52:10	Gathering security policies
+11-03-2024 16:52:10	Gather column encryption keys
+11-03-2024 16:52:10	Gathering column master keys
+11-03-2024 16:52:10	Gathering external data sources
+11-03-2024 16:52:10	Gathering external file formats
+11-03-2024 16:52:10	Gathering external tables
+11-03-2024 16:52:10	Gathering database permissions
+11-03-2024 16:52:10	Gathering extended properties
+11-03-2024 16:52:10	Gathering assemblies
+11-03-2024 16:52:10	An error occurred while attempting to reverse engineer elements of type Microsoft.Data.Tools.Schema.Sql.SchemaModel.SqlCredential: Batch Command during reverse engineer failed with Error Code: -2146232060 Line Number: 40 Error Message: Cannot resolve the collation conflict between "Latin1_General_CI_AI" and "Latin1_General_CI_AS" in the equal to operation..
+11-03-2024 16:52:10	Finished importing database.
+11-03-2024 16:52:10	A summary of the import was saved to the following location: C:\DevOps\Repo\SQLServer\Import Schema Logs\SQLServer_20240311112151.log
+11-03-2024 16:52:10	Click Finish to continue...

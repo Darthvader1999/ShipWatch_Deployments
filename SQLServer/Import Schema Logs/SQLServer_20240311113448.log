@@ -1,0 +1,87 @@
+11-03-2024 17:04:48	This log contains information about the import schema operation into project 'SQLServer' on computer 'MUMWKS018' by user 'omkarmhapralkar'.
+11-03-2024 17:04:48	Import of database schema has started.
+11-03-2024 17:05:00	Gathering database credentials
+11-03-2024 17:05:00	Gathering database options
+11-03-2024 17:05:00	Gathering generic database scoped configuration option
+11-03-2024 17:05:00	Gathering users
+11-03-2024 17:05:00	Gathering roles
+11-03-2024 17:05:00	Gathering application roles
+11-03-2024 17:05:00	Gathering role memberships
+11-03-2024 17:05:00	Gathering filegroups
+11-03-2024 17:05:00	Gathering full-text catalogs
+11-03-2024 17:05:00	Gathering assemblies
+11-03-2024 17:05:00	Gathering certificates
+11-03-2024 17:05:00	Gathering asymmetric keys
+11-03-2024 17:05:00	Gathering symmetric keys
+11-03-2024 17:05:00	Gathering encrypted symmetric keys
+11-03-2024 17:05:00	Gathering schemas
+11-03-2024 17:05:00	Gathering XML schema collections
+11-03-2024 17:05:00	Gathering user-defined data types
+11-03-2024 17:05:00	Gathering user-defined types
+11-03-2024 17:05:00	Gathering table types
+11-03-2024 17:05:00	Gathering unique keys for table types
+11-03-2024 17:05:00	Gathering primary keys for table types
+11-03-2024 17:05:00	Gathering indexes for table types
+11-03-2024 17:05:00	Gathering check constraints for table types
+11-03-2024 17:05:00	Gathering default constraints for table types
+11-03-2024 17:05:00	Gathering partition functions
+11-03-2024 17:05:00	Gathering partition schemes
+11-03-2024 17:05:00	Gathering functions
+11-03-2024 17:05:00	Gathering encrypted functions
+11-03-2024 17:05:00	Gathering aggregates
+11-03-2024 17:05:00	Gathering procedures
+11-03-2024 17:05:00	Gathering encrypted procedures
+11-03-2024 17:05:00	Gathering tables
+11-03-2024 17:05:00	Gathering primary keys
+11-03-2024 17:05:00	Gathering unique constraints
+11-03-2024 17:05:00	Gathering foreign keys
+11-03-2024 17:05:00	Gathering default constraints
+11-03-2024 17:05:00	Gathering check constraints
+11-03-2024 17:05:00	Gathering views
+11-03-2024 17:05:00	Gathering encrypted views
+11-03-2024 17:05:00	Gathering indexes
+11-03-2024 17:05:00	Gathering statistics
+11-03-2024 17:05:00	Gathering full-text index stoplists
+11-03-2024 17:05:00	Gathering search property lists
+11-03-2024 17:05:00	Gathering search properties
+11-03-2024 17:05:00	Gathering full-text indexes
+11-03-2024 17:05:00	Gathering column store indexes
+11-03-2024 17:05:00	Gathering spatial indexes
+11-03-2024 17:05:00	Gathering XML indexes
+11-03-2024 17:05:00	Gathering Selective XML indexes
+11-03-2024 17:05:00	Gathering encrypted triggers
+11-03-2024 17:05:00	Gathering triggers
+11-03-2024 17:05:00	Gathering encrypted and clr ddl triggers
+11-03-2024 17:05:00	Gathering ddl triggers
+11-03-2024 17:05:00	Creating edge constraints
+11-03-2024 17:05:00	Gathering synonyms
+11-03-2024 17:05:00	Gathering defaults
+11-03-2024 17:05:00	Gathering data constraint uddt bindings
+11-03-2024 17:05:00	Gathering rules
+11-03-2024 17:05:00	Gathering data constraint uddt bindings
+11-03-2024 17:05:00	Gathering message types
+11-03-2024 17:05:00	Gathering queues
+11-03-2024 17:05:00	Gathering contracts
+11-03-2024 17:05:00	Gathering services
+11-03-2024 17:05:00	Gathering event notifications
+11-03-2024 17:05:00	Gathering remote service bindings
+11-03-2024 17:05:00	Gathering broker priorities
+11-03-2024 17:05:00	Gathering signatures
+11-03-2024 17:05:00	Gathering compression options
+11-03-2024 17:05:00	Gathering sequence types
+11-03-2024 17:05:00	Gathering security policies
+11-03-2024 17:05:00	Gather column encryption keys
+11-03-2024 17:05:00	Gathering column master keys
+11-03-2024 17:05:00	Gathering external data sources
+11-03-2024 17:05:00	Gathering external file formats
+11-03-2024 17:05:00	Gathering external tables
+11-03-2024 17:05:00	Gathering extended properties
+11-03-2024 17:05:00	Gathering assemblies
+11-03-2024 17:05:02	Gathering credentials
+11-03-2024 17:05:02	Gathering logins
+11-03-2024 17:05:02	Gathering server audits
+11-03-2024 17:05:03	Scanning project for duplicate elements
+11-03-2024 17:05:03	Finished duplicate element processing
+11-03-2024 17:05:03	Finished importing database.
+11-03-2024 17:05:03	A summary of the import was saved to the following location: C:\DevOps\Repo\SQLServer\Import Schema Logs\SQLServer_20240311113448.log
+11-03-2024 17:05:03	Click Finish to continue...
