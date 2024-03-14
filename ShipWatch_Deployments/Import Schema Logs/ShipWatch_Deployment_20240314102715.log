@@ -1,0 +1,10 @@
+14-03-2024 15:57:15	This log contains information about the import schema operation into project 'ShipWatch_Deployments' on computer 'MUMWKS018' by user 'omkarmhapralkar'.
+14-03-2024 15:57:15	Deserializing model
+14-03-2024 15:57:15	Resolving model
+14-03-2024 15:57:15	Visiting imported model for types
+14-03-2024 15:57:16	Scanning project for duplicate elements
+14-03-2024 15:57:16	Finished duplicate element processing
+14-03-2024 15:57:16	Processing extra files
+14-03-2024 15:57:16	Finished importing Data-tier Application file.
+14-03-2024 15:57:16	A summary of the import was saved to the following location: C:\DevOps\Repo\ShipWatch_Deployments\Import Schema Logs\ShipWatch_Deployment_20240314102715.log
+14-03-2024 15:57:16	Click Finish to continue...
