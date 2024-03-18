@@ -71,4 +71,7 @@
     <Build Include="Security\DataSync.sql" />
     <Build Include="Security\Permissions.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="ShipWatch_Deployments.refactorlog" />
+  </ItemGroup>
 </Project>

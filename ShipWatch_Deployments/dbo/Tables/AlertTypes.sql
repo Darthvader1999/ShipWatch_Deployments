@@ -6,7 +6,7 @@
     [DefaultTicketType]    INT           NULL,
     [ShipwatchVisible]     BIT           DEFAULT ((0)) NOT NULL,
     [ShipwatchDescription] VARCHAR (100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
-    [Test] NCHAR(10) NULL, 
+    [Test1] NCHAR(10) NULL, 
     CONSTRAINT [Pk_AlertTypes_In] PRIMARY KEY CLUSTERED ([Id] ASC),
     CONSTRAINT [Uk_AlertTypes_Description] UNIQUE NONCLUSTERED ([Description] ASC)
 );
