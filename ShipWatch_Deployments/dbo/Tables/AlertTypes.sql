@@ -9,6 +9,7 @@
     [Omkar] NCHAR(10) NULL, 
     [Mhapralkar] NCHAR(10) NULL, 
     [Createdby] NCHAR(10) NULL, 
+    [mustchange] NCHAR(10) NULL, 
     CONSTRAINT [Pk_AlertTypes_In] PRIMARY KEY CLUSTERED ([Id] ASC),
     CONSTRAINT [Uk_AlertTypes_Description] UNIQUE NONCLUSTERED ([Description] ASC)
 );
