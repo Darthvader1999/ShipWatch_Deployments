@@ -8,6 +8,7 @@
     [ShipwatchDescription] VARCHAR (100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
     [Omkar] NCHAR(10) NULL, 
     [Mhapralkar] NCHAR(10) NULL, 
+    [Createdby] NCHAR(10) NULL, 
     CONSTRAINT [Pk_AlertTypes_In] PRIMARY KEY CLUSTERED ([Id] ASC),
     CONSTRAINT [Uk_AlertTypes_Description] UNIQUE NONCLUSTERED ([Description] ASC)
 );
